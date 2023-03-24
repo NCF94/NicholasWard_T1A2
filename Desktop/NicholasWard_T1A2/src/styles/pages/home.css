@@ -2,6 +2,10 @@ main {
   font-family: "Courier New", Courier, monospace;
   text-align: center;
 }
+main .intro {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
 main .about-me {
   background-color: rgb(245, 210, 70);
 }
