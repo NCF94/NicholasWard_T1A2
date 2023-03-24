@@ -1,0 +1,25 @@
+@import "../defaults/color";
+@import "./utils";
+@import "../defaults/breakpoint";
+
+header {
+    margin-bottom: 15%;
+    margin-top: 5%;
+    font-family: 'Courier New', Courier, monospace;
+
+    .nav-items {
+        display: flex;
+        justify-content: space-around;
+        color: $primary-color;
+        
+
+        a {
+            text-decoration: none;
+        }
+
+        a:visited {
+            text-decoration: none;
+            color: $primary-color;
+        }
+    }
+}

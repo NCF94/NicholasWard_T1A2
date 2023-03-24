@@ -1,54 +1,6 @@
-header {
-
-    margin-bottom: 24px;
-    .name {
-        font-size: 2rem;
-        display: flex;
-    
-    }
-
-    .nav-items {
-        display: flex;
-        justify-content:space-around;
-        flex-direction: row;
-        height: 100PX;
-    }
-}
+@import "./defaults/color";
+@import "./components/header";
+@import "./components/footer";
 
 
 
-main {
-
-   display: flex;
-   flex-direction: column;
-   
-   margin-left: 300px;
-   margin-bottom: 24px;
-    h1 {
-        font-family: 'Courier New', Courier, monospace;
-    }
-
-    h2 {
-        font-family: 'Courier New', Courier, monospace;
-    }
-    h3 {
-        font-family: 'Courier New', Courier, monospace;
-    }
-}
-
-
-footer {
-
-    .social-media {
-        display: flex;
-        justify-content: space-around;
-        margin-bottom: 24px;
-    }
-        img {
-            width: 40px;
-            height: 40px;
-        }
-    
-    
-    
-}

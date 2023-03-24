@@ -1,39 +1,55 @@
 header {
-  margin-bottom: 24px;
-}
-header .name {
-  font-size: 2rem;
-  display: flex;
+  margin-bottom: 15%;
+  margin-top: 5%;
+  font-family: "Courier New", Courier, monospace;
 }
 header .nav-items {
   display: flex;
   justify-content: space-around;
-  flex-direction: row;
-  height: 100PX;
+  color: black;
+}
+header .nav-items a {
+  text-decoration: none;
+}
+header .nav-items a:visited {
+  text-decoration: none;
+  color: black;
 }
 
-main {
+header {
+  margin-bottom: 15%;
+  margin-top: 5%;
+  font-family: "Courier New", Courier, monospace;
+}
+header .nav-items {
   display: flex;
-  flex-direction: column;
-  margin-left: 300px;
-  margin-bottom: 24px;
+  justify-content: space-around;
+  color: black;
 }
-main h1 {
-  font-family: "Courier New", Courier, monospace;
+header .nav-items a {
+  text-decoration: none;
 }
-main h2 {
-  font-family: "Courier New", Courier, monospace;
-}
-main h3 {
-  font-family: "Courier New", Courier, monospace;
+header .nav-items a:visited {
+  text-decoration: none;
+  color: black;
 }
 
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
 footer .social-media {
   display: flex;
   justify-content: space-around;
-  margin-bottom: 24px;
+  align-items: baseline;
 }
 footer img {
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
+}
+footer #copyright {
+  font-family: "Courier New", Courier, monospace;
 }/*# sourceMappingURL=index.css.map */
