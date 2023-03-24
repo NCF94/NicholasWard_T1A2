@@ -13,7 +13,7 @@ main {
     
 
     .about-me {
-        background-color: rgb(245, 210, 70);   
+        background-color: $secondary-color;   
     }
         a {
             text-decoration: none;
@@ -21,7 +21,7 @@ main {
         }
 
     .contact-me {
-        background-color: rgb(86, 218, 238);
+        background-color: $third-color;
     }
     
  }
