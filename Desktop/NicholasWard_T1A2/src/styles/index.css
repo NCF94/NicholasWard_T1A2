@@ -16,24 +16,11 @@ header .nav-items a:visited {
   color: black;
 }
 
-header {
-  margin-bottom: 15%;
-  margin-top: 5%;
-  font-family: "Courier New", Courier, monospace;
+@media screen and (max width: 500px) {
+  header .nav-items {
+    display: flex;
+  }
 }
-header .nav-items {
-  display: flex;
-  justify-content: space-around;
-  color: black;
-}
-header .nav-items a {
-  text-decoration: none;
-}
-header .nav-items a:visited {
-  text-decoration: none;
-  color: black;
-}
-
 footer {
   position: absolute;
   left: 0;
