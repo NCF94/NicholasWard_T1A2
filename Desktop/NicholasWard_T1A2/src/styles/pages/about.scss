@@ -1,0 +1,14 @@
+@import "../defaults/color";
+
+main {
+    font-family: 'Courier New', Courier, monospace;
+
+    .about-me {
+        padding: 20px;
+
+        p {
+            font-size: 16px;
+        }
+
+    }
+}

@@ -1,8 +1,9 @@
 header {
-  margin-bottom: 15%;
+  margin-bottom: 5%;
   margin-top: 5%;
   font-family: "Courier New", Courier, monospace;
   font-weight: bold;
+  font-size: 24px;
 }
 header .nav-items {
   display: flex;
@@ -17,13 +18,34 @@ header .nav-items a:visited {
   color: black;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 800px) {
   header {
-    margin-bottom: 15%;
+    margin-bottom: 5%;
     margin-top: 5%;
     font-family: "Courier New", Courier, monospace;
     font-weight: bold;
-    font-size: large;
+    font-size: 20px;
+  }
+  header .nav-items {
+    display: flex;
+    flex-wrap: wrap;
+    color: black;
+  }
+  header .nav-items a {
+    text-decoration: none;
+  }
+  header .nav-items a:visited {
+    text-decoration: none;
+    color: black;
+  }
+}
+@media screen and (max-width: 500px) {
+  header {
+    margin-bottom: 5%;
+    margin-top: 5%;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+    font-size: 16px;
   }
   header .nav-items {
     display: flex;
@@ -39,7 +61,7 @@ header .nav-items a:visited {
   }
 }
 footer {
-  position: absolute;
+  position: relative;
   left: 0;
   bottom: 0;
   width: 100%;
