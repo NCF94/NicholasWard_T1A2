@@ -3,12 +3,12 @@ main {
   text-align: center;
 }
 main .about-me {
-  background-color: rgb(13, 188, 13);
+  background-color: rgb(245, 210, 70);
 }
 main a {
   text-decoration: none;
   color: black;
 }
 main .contact-me {
-  background-color: rgb(13, 188, 13);
+  background-color: rgb(86, 218, 238);
 }/*# sourceMappingURL=home.css.map */

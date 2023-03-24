@@ -4,10 +4,14 @@ main {
     
     font-family: 'Courier New', Courier, monospace;
     text-align:center;
+
+    .intro {
+
+    }
     
 
     .about-me {
-        background-color: $highlight-color;   
+        background-color: rgb(245, 210, 70);   
     }
         a {
             text-decoration: none;
@@ -15,7 +19,7 @@ main {
         }
 
     .contact-me {
-        background-color: $highlight-color;
+        background-color: rgb(86, 218, 238);
     }
     
  }

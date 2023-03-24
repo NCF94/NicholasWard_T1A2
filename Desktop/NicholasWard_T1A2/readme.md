@@ -7,12 +7,12 @@ This is my portfolio webiste for displaying my technical skills that I have lear
 ## Components
 
 ### Header
-Started greating the nav bar, and basic header design
+Started creating the nav bar, and basic header design
 ### Footer
-Created the images/link that will be at the bottom of all my pages.
+Completed footer design. Now have logo images of, github, linkedin and youtube, which create another tab in browser thats opens there associated websites. Also added copyright at the bottom of each page.
 
 ### Homepage
-Began working on my homepage.
+Finished homepage, made about me and contact me, coloured and a linked to their associated pages. Centered "Hi I'm Nick" text.
 
 ## Styling
 
