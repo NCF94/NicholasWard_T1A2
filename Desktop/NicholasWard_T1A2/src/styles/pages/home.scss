@@ -1,6 +1,21 @@
+@import "../defaults/color";
+
 main {
     
     font-family: 'Courier New', Courier, monospace;
     text-align:center;
+    
+
+    .about-me {
+        background-color: $highlight-color;   
+    }
+        a {
+            text-decoration: none;
+            color: $primary-color;
+        }
+
+    .contact-me {
+        background-color: $highlight-color;
+    }
     
  }

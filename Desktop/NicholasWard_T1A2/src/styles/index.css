@@ -16,11 +16,6 @@ header .nav-items a:visited {
   color: black;
 }
 
-@media screen and (max width: 500px) {
-  header .nav-items {
-    display: flex;
-  }
-}
 footer {
   position: absolute;
   left: 0;
