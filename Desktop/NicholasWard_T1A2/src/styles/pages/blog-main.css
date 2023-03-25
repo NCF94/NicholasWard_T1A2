@@ -1,1 +1,50 @@
-/*# sourceMappingURL=blog-main.css.map */
+.blogs {
+  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.blogs a {
+  text-decoration: none;
+  color: black;
+}
+.blogs .blog1 {
+  border: 1px solid black;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px 0px;
+  padding: 70px;
+  background-image: url(/docs/blog-post.jpg);
+}
+.blogs .blog2 {
+  border: 1px solid black;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px 0px;
+  padding: 70px;
+  background-image: url(/docs/blog-post.jpg);
+}
+.blogs .blog3 {
+  border: 1px solid black;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px 0px;
+  padding: 70px;
+  background-image: url(/docs/blog-post.jpg);
+}
+.blogs .blog4 {
+  border: 1px solid black;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px 0px;
+  padding: 70px;
+  background-image: url(/docs/blog-post.jpg);
+}
+.blogs .blog5 {
+  border: 1px solid black;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px 0px;
+  padding: 70px;
+  background-image: url(/docs/blog-post.jpg);
+}/*# sourceMappingURL=blog-main.css.map */

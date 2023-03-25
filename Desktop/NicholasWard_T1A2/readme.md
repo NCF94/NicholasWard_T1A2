@@ -15,10 +15,19 @@ Completed footer design. Now have logo images of, github, linkedin and youtube, 
 Finished homepage, made about me and contact me, coloured and a linked to their associated pages. Centered "Hi I'm Nick" text.
 
 ### About
-Started on my about page, finished the content on the page and linked mock resume. Need to style.
+Finished the content on the page and linked mock resume. Finished styling.
 
+### Blog Page
+Completed and styled the main blog page, happy with how it reacts to various screen sizes.
+
+### Individual Blog Pages.
+
+Fixed broken nav bar links on individual blog pages.
 ## Styling
 
 ### Components
 
 Footer and Header styling is complete. happy with how they both react to different screen sizes.
+
+### Colors
+Set default colors, imported to each page

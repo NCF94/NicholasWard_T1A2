@@ -1,0 +1,65 @@
+@import "../defaults/color";
+
+.blogs {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+
+    a {
+        text-decoration: none;
+        color: $primary-color;
+    }
+    
+
+    .blog1 {
+        
+        border: 1px solid black;
+        border-radius: 8px;
+        overflow: hidden;
+        margin: 20px 0px;
+        padding: 70px;
+        background-image: url(/docs/blog-post.jpg);
+    }
+
+    .blog2 {
+        border: 1px solid black;
+        border-radius: 8px;
+        overflow: hidden;
+        margin: 20px 0px;
+        padding: 70px;
+        background-image: url(/docs/blog-post.jpg);
+        
+    }
+
+    .blog3 {
+        border: 1px solid black;
+        border-radius: 8px;
+        overflow: hidden;
+        margin: 20px 0px;
+        padding: 70px;
+        background-image: url(/docs/blog-post.jpg);
+        
+    }
+
+    .blog4 {
+        border: 1px solid black;
+        border-radius: 8px;
+        overflow: hidden;
+        margin: 20px 0px;
+        padding: 70px;
+        background-image: url(/docs/blog-post.jpg);
+
+    }
+
+    .blog5 {
+        border: 1px solid black;
+        border-radius: 8px;
+        overflow: hidden;
+        margin: 20px 0px;
+        padding: 70px;
+        background-image: url(/docs/blog-post.jpg);
+
+    }
+}
+
