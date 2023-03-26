@@ -5,6 +5,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content:space-around;
+    text-align: center;
 
     a {
         text-decoration: none;
@@ -15,6 +16,7 @@
 
     .blog1 {
         
+        width: 150px;
         border: 1px solid black;
         border-radius: 8px;
         overflow: hidden;
@@ -24,6 +26,7 @@
     }
 
     .blog2 {
+        width: 150px;
         border: 1px solid black;
         border-radius: 8px;
         overflow: hidden;
@@ -34,6 +37,7 @@
     }
 
     .blog3 {
+        width: 150px;
         border: 1px solid black;
         border-radius: 8px;
         overflow: hidden;
@@ -44,6 +48,7 @@
     }
 
     .blog4 {
+        width: 150px;
         border: 1px solid black;
         border-radius: 8px;
         overflow: hidden;
@@ -54,6 +59,7 @@
     }
 
     .blog5 {
+        width: 150px;
         border: 1px solid black;
         border-radius: 8px;
         overflow: hidden;
