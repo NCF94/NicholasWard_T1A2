@@ -18,7 +18,7 @@ Finished homepage, made about me and contact me, coloured and a linked to their 
 Finished the content on the page and linked mock resume. Finished styling.
 
 ### Blog Page
-Completed and styled the main blog page, happy with how it reacts to various screen sizes.
+Completed and styled the main blog page, happy with how it reacts to various screen sizes. Changed Blog pictures to match the blog names.
 
 ### Individual Blog Pages.
 
