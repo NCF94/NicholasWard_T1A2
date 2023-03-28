@@ -1,10 +1,10 @@
 @import "../defaults/color";
-@import "../defaults/breakpoint";
+
 
 
 header {
-    margin-bottom: 5%;
-    margin-top: 5%;
+    
+    margin-top: 1%;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     font-size: 24px;
@@ -13,9 +13,11 @@ header {
 
     .nav-items {
         display: flex;
+        flex-direction: row;
+        align-items:center;
         justify-content: space-around;
         color: $primary-color;
-    
+        margin-bottom: 1%;
     
         a {
             text-decoration: none;
@@ -26,7 +28,7 @@ header {
             color: $primary-color;
         }
     }
-
+    border-bottom: 1px solid grey;
 
 }
 

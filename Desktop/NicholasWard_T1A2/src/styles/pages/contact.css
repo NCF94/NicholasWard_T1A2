@@ -1,1 +1,46 @@
-/*# sourceMappingURL=contact.css.map */
+.contact-page {
+  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.contact-page .contact-elements {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.contact-page .contact-input {
+  border: 1px solid black;
+  border-radius: 4px;
+  outline: none;
+  font-size: 1.1rem;
+  font-family: "Courier New", Courier, monospace;
+}
+.contact-page .contact-input:not(.contact-textarea) {
+  height: 32px;
+}
+.contact-page .contact-input.contact-textarea {
+  resize: none;
+}
+.contact-page .contact-input:focus {
+  box-shadow: 0 0 4px 1px rgb(86, 218, 238);
+}
+.contact-page .btn-div {
+  text-align: center;
+}
+.contact-page .btn-div #submit {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 550;
+  font-size: 1.1rem;
+  height: 25px;
+  min-width: 100px;
+  background-color: rgb(245, 210, 70);
+  border-radius: 4px;
+  border: none;
+  outline: none;
+  margin-top: 20px;
+}
+.contact-page .btn-div #submit:hover {
+  cursor: pointer;
+  background-color: rgb(86, 218, 238);
+}/*# sourceMappingURL=contact.css.map */

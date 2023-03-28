@@ -1,5 +1,6 @@
 main {
   font-family: "Courier New", Courier, monospace;
+  margin-bottom: 50px;
 }
 main .about-me {
   padding: 20px;
