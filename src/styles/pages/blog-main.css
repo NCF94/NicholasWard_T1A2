@@ -3,57 +3,38 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  align-items: center;
+  margin-top: 150px;
+  margin-bottom: 150px;
   text-align: center;
-  margin-top: 50px;
-  margin-bottom: 50px;
 }
 .blogs a {
   text-decoration: none;
   color: black;
   background-color: white;
 }
-.blogs .blog1 {
-  width: 150px;
-  border: 1px solid black;
-  border-radius: 8px;
-  overflow: hidden;
-  margin: 20px 0px;
-  padding: 70px;
-  background-image: url(/src/images/melbourne.jpg);
+.blogs .blog1 img {
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
 }
-.blogs .blog2 {
-  width: 150px;
-  border: 1px solid black;
-  border-radius: 8px;
-  overflow: hidden;
-  margin: 20px 0px;
-  padding: 70px;
-  background-image: url(/src/images/sydney.jpg);
+.blogs .blog2 img {
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
 }
-.blogs .blog3 {
-  width: 150px;
-  border: 1px solid black;
-  border-radius: 8px;
-  overflow: hidden;
-  margin: 20px 0px;
-  padding: 70px;
-  background-image: url(/src/images/brisbane.jpg);
+.blogs .blog3 img {
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
 }
-.blogs .blog4 {
-  width: 150px;
-  border: 1px solid black;
-  border-radius: 8px;
-  overflow: hidden;
-  margin: 20px 0px;
-  padding: 70px;
-  background-image: url(/src/images/adelaide.jpg);
+.blogs .blog4 img {
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
 }
-.blogs .blog5 {
-  width: 150px;
-  border: 1px solid black;
-  border-radius: 8px;
-  overflow: hidden;
-  margin: 20px 0px;
-  padding: 70px;
-  background-image: url(/src/images/perth.jpg);
+.blogs .blog5 img {
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
 }/*# sourceMappingURL=blog-main.css.map */

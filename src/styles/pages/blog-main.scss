@@ -5,9 +5,10 @@
     display: flex;
     flex-wrap: wrap;
     justify-content:space-around;
+    align-items: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
     text-align: center;
-    margin-top: 50px;
-    margin-bottom: 50px;
 
     a {
         text-decoration: none;
@@ -18,57 +19,47 @@
 
     .blog1 {
         
-        width: 150px;
-        border: 1px solid black;
-        border-radius: 8px;
-        overflow: hidden;
-        margin: 20px 0px;
-        padding: 70px;
-        background-image: url(/src/images/melbourne.jpg);
+        img {
+            border-radius: 10px;
+            width: 200px;
+            height: 200px;
+        }
     }
 
     .blog2 {
-        width: 150px;
-        border: 1px solid black;
-        border-radius: 8px;
-        overflow: hidden;
-        margin: 20px 0px;
-        padding: 70px;
-        background-image: url(/src/images/sydney.jpg);
         
+        img {
+            border-radius: 10px;
+            width: 200px;
+            height: 200px;
+        }
     }
 
     .blog3 {
-        width: 150px;
-        border: 1px solid black;
-        border-radius: 8px;
-        overflow: hidden;
-        margin: 20px 0px;
-        padding: 70px;
-        background-image: url(/src/images/brisbane.jpg);
-        
+       
+        img {
+            border-radius: 10px;
+            width: 200px;
+            height: 200px;
+        }
     }
 
     .blog4 {
-        width: 150px;
-        border: 1px solid black;
-        border-radius: 8px;
-        overflow: hidden;
-        margin: 20px 0px;
-        padding: 70px;
-        background-image: url(/src/images/adelaide.jpg);
-
+        
+        img {
+            border-radius: 10px;
+            width: 200px;
+            height: 200px;
+        }
     }
 
     .blog5 {
-        width: 150px;
-        border: 1px solid black;
-        border-radius: 8px;
-        overflow: hidden;
-        margin: 20px 0px;
-        padding: 70px;
-        background-image: url(/src/images/perth.jpg);
-
+        
+        img {
+            border-radius: 10px;
+            width: 200px;
+            height: 200px;
+        }
     }
 }
 
