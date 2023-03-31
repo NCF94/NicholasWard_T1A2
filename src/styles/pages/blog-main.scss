@@ -1,6 +1,7 @@
 @import "../defaults/color";
 
 .blogs {
+    // Layout of my Blog post links/images, size, font-family 
     font-family: 'Courier New', Courier, monospace;
     display: flex;
     flex-wrap: wrap;
@@ -18,7 +19,7 @@
     
 
     .blog1 {
-        
+        // image size
         img {
             border-radius: 10px;
             width: 200px;

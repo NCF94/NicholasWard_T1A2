@@ -1,11 +1,13 @@
 @import "../defaults/color";
 
 .contact-page {
+    // alignment of text boxes and names 
     font-family:'Courier New', Courier, monospace ;
     display: flex;
     flex-direction: column;
     align-items:center;
-
+    // alignment of text boxes and names 
+    
     .contact-elements {
         display: flex;
         flex-direction: column;
@@ -13,6 +15,7 @@
     }
 
     .contact-input {
+        // Border of input boxes, shape of boxes, font and font size
                 border: 1px solid $primary-color;
                 border-radius: 4px;
                 outline: none;
@@ -27,14 +30,14 @@
                 &.contact-textarea {
                     resize: none;
                 }
-
+                // shadow on selected input box.
                 &:focus {
                     box-shadow: 0 0 4px 1px $third-color;
                 }
     }
     .btn-div {
         text-align: center;
-
+        // submit button, font size/style, button shape.
         #submit {
             font-family: 'Courier New', Courier, monospace;
             font-weight: 550;
@@ -47,7 +50,7 @@
             outline: none;
             margin-top: 20px;
             
-
+                // change color when hovering on submit button.
                 &:hover {
                     cursor: pointer;
                     background-color: $third-color;

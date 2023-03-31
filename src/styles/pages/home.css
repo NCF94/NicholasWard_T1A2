@@ -14,6 +14,12 @@ main a {
   text-decoration: none;
   color: black;
 }
+main:hover {
+  cursor: pointer;
+}
 main .contact-me {
   background-color: rgb(86, 218, 238);
+}
+main:hover {
+  cursor: pointer;
 }/*# sourceMappingURL=home.css.map */

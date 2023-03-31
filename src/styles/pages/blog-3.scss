@@ -1,6 +1,7 @@
 @import "../defaults/color";
 
 main {
+    // use display:grid to postion page content for laptop/pc view
     font-family: 'Courier New', Courier, monospace;
     display: grid;
     grid-template-columns: 50px 3fr 20px 5fr  1fr;
@@ -23,7 +24,7 @@ main {
         grid-row: 4/5;
     }
 }
-
+// when using mobile, display changes to display:flex to re-align content to a more user friendly view.
 @media screen and (max-width: 500px) {
     main {
         display: flex;
@@ -31,7 +32,7 @@ main {
         align-items: center;
     }
 }
-
+// when using tablet, display changes to display:flex to re-align content to a more user friendly view.
 @media screen and (max-width: 800px) {
     main {
         display: flex;

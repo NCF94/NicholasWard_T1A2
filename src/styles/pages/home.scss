@@ -2,18 +2,18 @@
 
 main {
     
-    
+    // font family for page content, align text in center.
     font-family: 'Courier New', Courier, monospace;
     text-align:center;
     margin-bottom: 200px;
 
-
+    // spacing to center content
     .intro {
         margin-top: 200px;
         margin-bottom: 200px;
     }
     
-
+    // highlight about me to indicate it is a link
     .about-me {
         background-color: $secondary-color;   
     }
@@ -21,9 +21,19 @@ main {
             text-decoration: none;
             color: $primary-color;
         }
+    // cursor changes to pointer to indicate link
 
+        &:hover {
+            cursor: pointer;
+        }
+
+    // highlight contact me to indicate it is a link
     .contact-me {
         background-color: $third-color;
+    }
+    // cursor changes to pointer to indicate link
+    &:hover {
+        cursor: pointer;
     }
     
  }
