@@ -96,6 +96,7 @@ footer #copyright {
 }
 
 body {
+  /* footer position */
   min-height: 100vh;
   display: flex;
   flex-direction: column;

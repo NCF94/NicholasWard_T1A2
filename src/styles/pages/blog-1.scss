@@ -33,7 +33,7 @@ main {
     }
 }
 /* when using tablet, display changes to display:flex to re-align content to a more user friendly view. */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 820px) {
     main {
         display: flex;
         flex-direction: column;

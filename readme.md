@@ -112,42 +112,42 @@ Screenshot of the PDF link working.
 
 Screen shots of my website with tablet sized screen.
 
-![Homepage](./docs/screenshots/tablet/homepage%20-%20tablet.png "homepage")
+![Homepage](./docs/screenshots/tablet/homepage-tablet.png "homepage")
 
-![About](./docs/screenshots/tablet/about%20page%20-%20tablet.png "About")
+![About](./docs/screenshots/tablet/about-tablet.png "About")
 
-![Contact](./docs/screenshots/tablet/contact%20page%20-%20tablet.png "contact")
+![Contact](./docs/screenshots/tablet/contact-tablet.png "contact")
 
-![Blog](./docs/screenshots/tablet/blog%20page%20-%20tablet.png "Blog")
+![Blog](./docs/screenshots/tablet/blog-tablet.png "Blog")
 
-![Blog1](/docs/screenshots/tablet/blog%201%20-%20tablet.png "blog1")
+![Blog1](/docs/screenshots/tablet/blog1-tablet.png "blog1")
 
-![Blog2](./docs/screenshots/tablet/blog%202%20-%20tablet.png "blog2")
+![Blog2](./docs/screenshots/tablet/blog2-tablet.png "blog2")
 
-![Blog3](./docs/screenshots/tablet/blog%203%20-%20tablet.png "blog3")
+![Blog3](./docs/screenshots/tablet/blog3-tablet.png "blog3")
 
-![Blog4](./docs/screenshots/tablet/blog%20-%204%20tablet.png "blog4")
+![Blog4](./docs/screenshots/tablet/blog4-tablet.png "blog4")
 
-![Blog5](./docs/screenshots/tablet/blog%205%20-%20tablet.png "blog5")
+![Blog5](./docs/screenshots/tablet/blog5-tablet.png "blog5")
 
 ### Mobile
 
 Screen shots of my website from a mobile sized screen.
 
-![Homepage](./docs/screenshots/mobile/homepage%20-%20mobile.png "homepage")
+![Homepage](./docs/screenshots/mobile/home-mobile.png "homepage")
 
-![About](./docs/screenshots/mobile/about%20page%20-%20mobile.png "About")
+![About](./docs/screenshots/mobile/about-mobile.png "About")
 
-![Contact](./docs/screenshots/mobile/contact%20page%20-%20mobile.png "contact")
+![Contact](./docs/screenshots/mobile/contact-mobile.png "contact")
 
-![Blog](./docs/screenshots/mobile/blog%20page%20-%20mobile.png "Blog")
+![Blog](./docs/screenshots/mobile/blog-mobile.png "Blog")
 
-![Blog1](./docs/screenshots/mobile/blog%201%20-%20mobile.png "blog1")
+![Blog1](./docs/screenshots/mobile/blog1-mobile.png "blog1")
 
-![Blog2](./docs/screenshots/mobile/blog%202%20-%20mobile.png "blog2")
+![Blog2](./docs/screenshots/mobile/blog2-mobile.png "blog2")
 
-![Blog3](./docs/screenshots/mobile/blog%203%20-%20mobile.png "blog3")
+![Blog3](./docs/screenshots/mobile/blog3-mobile.png "blog3")
 
-![Blog4](./docs/screenshots/mobile/blog%204%20-%20mobile.png "blog4")
+![Blog4](./docs/screenshots/mobile/blog4-mobile.png "blog4")
 
-![Blog5](./docs/screenshots/mobile/blog%205%20-%20mobile.png "blog5")
+![Blog5](./docs/screenshots/mobile/blog5-mobile.png "blog5")
