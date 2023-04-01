@@ -93,4 +93,11 @@ footer img {
 footer #copyright {
   font-family: "Courier New", Courier, monospace;
   font-size: 10px;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }/*# sourceMappingURL=index.css.map */
