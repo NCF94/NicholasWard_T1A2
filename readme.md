@@ -17,6 +17,17 @@
 This is my portfolio webiste for displaying my technical skills that I have learnt so far at Coder Academy. I am currently still developing the website, so I will keep updating this readme in regards to change/updates I make. Since  this is my first website, I decided to keep the design simple. As I learn new technologies, I plan to update this website accordingly.
 The targeted audience for this webisite is potential employers.
 
+## Tech Stack
+
+Here is a list of the different technologies used to develop and deploy my website.
+
+ - HTML
+ - CSS
+ - SCSS
+ - Markdown
+ - Netlify
+ - VS Code
+
 ## Components
 
 ### Header
