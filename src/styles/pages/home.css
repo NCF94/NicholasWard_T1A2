@@ -2,15 +2,10 @@ main {
   /* font family for page content, align text in center. */
   font-family: "Courier New", Courier, monospace;
   text-align: center;
-  /* spacing to center content */
   /* highlight about me to indicate it is a link */
   /* cursor changes to pointer to indicate link */
   /* highlight contact me to indicate it is a link */
   /* cursor changes to pointer to indicate link */
-}
-main .intro {
-  margin-top: 200px;
-  margin-bottom: 200px;
 }
 main .about-me {
   background-color: rgb(245, 210, 70);
