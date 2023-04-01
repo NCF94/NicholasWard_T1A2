@@ -3,14 +3,14 @@
 
 
 header {
-    // Header position, nav bar font and font weight/size
+    /* Header position, nav bar font and font weight/size */
     margin-top: 1%;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     font-size: 24px;
     
     
-    // nav bar link positioning and color 
+    /* nav bar link positioning and color */
     .nav-items {
         display: flex;
         flex-direction: row;
@@ -19,7 +19,7 @@ header {
         color: $primary-color;
         margin-bottom: 1%;
         
-        // removing decoration on nav bar links 
+        /* removing decoration on nav bar links */
         a {
             text-decoration: none;
         }
@@ -29,12 +29,12 @@ header {
             color: $primary-color;
         }
     }
-    // line to seperate header and page content 
+    /* line to seperate header and page content */
     border-bottom: 1px solid grey;
 
 }
 
-// nav bar changes for tablets. reduce font size and adjust positioning 
+/* nav bar changes for tablets. reduce font size and adjust positioning */
 @media screen and (max-width: 800px) {
     header {
         margin-bottom: 5%;
@@ -67,7 +67,7 @@ header {
 
 
 
-// nav bar changes for mobile. reduce font size and adjust positioning
+/* nav bar changes for mobile. reduce font size and adjust positioning */
 @media screen and (max-width: 500px) {
     header {
         margin-bottom: 5%;

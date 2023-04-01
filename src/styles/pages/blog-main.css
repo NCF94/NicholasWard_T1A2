@@ -1,4 +1,5 @@
 .blogs {
+  /* Layout of my Blog post links/images, size, font-family  */
   font-family: "Courier New", Courier, monospace;
   display: flex;
   flex-wrap: wrap;
@@ -14,6 +15,7 @@
   background-color: white;
 }
 .blogs .blog1 img {
+  /* image size */
   border-radius: 10px;
   width: 200px;
   height: 200px;

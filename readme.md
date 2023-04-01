@@ -21,22 +21,22 @@ The targeted audience for this webisite is potential employers.
 
 Here is a list of the different technologies used to develop and deploy my website.
 
- - HTML
- - CSS
- - SCSS
- - Markdown
- - Netlify
- - VS Code
+- HTML
+- CSS
+- SCSS
+- Markdown
+- Netlify
+- VS Code
 
 ## Components
 
 ### Header
 
-For now, the Header is complete, position is how I want, text size adjusts depending on screen size. Added line to seperate nav bar and page content. This header will be used on all pages.
+For now, the Header is complete, the position is how I want, text size adjusts depending on screen size. Added line to seperate nav bar and page content by using border-bottom. This header will be used on all pages.
 
 ### Footer
 
-Completed footer design. Now have logo images of, github, linkedin and youtube, which create another tab in browser thats opens there associated websites. Also added copyright at the bottom of each page. This footer will be used on all poages.
+Completed footer design. Now have logo images of, github, linkedin and youtube, which create another tab in browser thats opens there associated websites. Also added copyright at the bottom of each page. This footer will be used on all pages.
 
 ### Homepage
 
@@ -48,7 +48,7 @@ The about page contains a small paragraph about me, which includes some of my st
 
 ### Blog Page
 
-The main Blog page is pretty simple, it contains An image that is relevent to the each blogs "content", a title and date for each blog. Clicking each image will take you to each individual blog post.
+The main Blog page is pretty simple, it contains An image that is relevent to the each blogs "content", a title and date for each blog. Clicking each image will take you to each individual blog post. I gave each image a border radius, as it looks a lot cleaner than a squared edge.
 
 ### Contact Page
 

@@ -1,8 +1,10 @@
 .contact-page {
+  /* alignment of text boxes and names */
   font-family: "Courier New", Courier, monospace;
   display: flex;
   flex-direction: column;
   align-items: center;
+  /* alignment of text boxes and names  */
 }
 .contact-page .contact-elements {
   display: flex;
@@ -10,11 +12,13 @@
   margin-bottom: 20px;
 }
 .contact-page .contact-input {
+  /* Border of input boxes, shape of boxes, font and font size */
   border: 1px solid black;
   border-radius: 4px;
   outline: none;
   font-size: 1.1rem;
   font-family: "Courier New", Courier, monospace;
+  /* shadow on selected input box. */
 }
 .contact-page .contact-input:not(.contact-textarea) {
   height: 32px;
@@ -27,6 +31,7 @@
 }
 .contact-page .btn-div {
   text-align: center;
+  /* submit button, font size/style, button shape. */
 }
 .contact-page .btn-div #submit {
   font-family: "Courier New", Courier, monospace;
@@ -39,6 +44,7 @@
   border: none;
   outline: none;
   margin-top: 20px;
+  /* change color when hovering on submit button. */
 }
 .contact-page .btn-div #submit:hover {
   cursor: pointer;
