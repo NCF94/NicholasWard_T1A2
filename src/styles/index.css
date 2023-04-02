@@ -68,6 +68,9 @@ header .nav-items a:visited {
     text-decoration: none;
     color: black;
   }
+  header .nav-items a:focus {
+    text-decoration: none;
+  }
 }
 footer {
   /* Footer position */
